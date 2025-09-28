@@ -1,12 +1,11 @@
 💻 Junior Full Stack Developer passionate about building scalable and modern web applications.  
 🚀 Hands-on experience with frontend and backend projects, including full-stack apps using **TypeScript, HTML, CSS, Node.js, and MongoDB**.  
-📚 Completed 10 study units in Computer Science during high school, including developing a full-stack project.  
 🌱 Currently expanding my knowledge in modern technologies and best practices.  
 🤝 Strong team player, problem solver, and eager to contribute to impactful projects.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofek-ddia-552757356/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](ofekddia1@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ofekddia1@gmail.com)
 
 ---
 
@@ -18,6 +17,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
